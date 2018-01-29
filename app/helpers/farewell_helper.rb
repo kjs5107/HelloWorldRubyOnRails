@@ -1,0 +1,2 @@
+module FarewellHelper
+end
